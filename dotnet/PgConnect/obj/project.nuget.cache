@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZIjI6Y/zL7DwBvFxPF8rFVeEQDSwy+/wLYdskYmLnpIJz4HzHVEJ7mVXO+rfooiZqHwOhy6ww6loN0Cks7rvpg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\User\\Documents\\practice\\1\\dotnet\\PgConnect\\PgConnect.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.0\\microsoft.extensions.logging.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\npgsql\\8.0.1\\npgsql.8.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

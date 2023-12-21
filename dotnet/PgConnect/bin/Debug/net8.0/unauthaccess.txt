@@ -1,0 +1,9 @@
+[INFO] 2023-12-21 13:59:56: User is fdgd
+[INFO] 2023-12-21 13:59:56: Password is dfdd
+[INFO] 2023-12-21 14:02:58: User is ╨▓╨░╨▓╨┐╨▓
+[INFO] 2023-12-21 14:03:00: Password is ╨▓╨░╨▓╨┐╨░
+[INFO] 2023-12-21 14:03:42: User is jane
+[INFO] 2023-12-21 14:03:42: Password is `1qaz2wsx
+User: jane, Time: 21.12.2023 14:11:46
+User: jane, Time: 21.12.2023 14:13:05
+User: jane, Time: 21.12.2023 14:15:02

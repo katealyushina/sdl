@@ -36,3 +36,4 @@ C:\Users\User\Documents\practice\1\dotnet\PgConnect\obj\Debug\net8.0\refint\PgCo
 C:\Users\User\Documents\practice\1\dotnet\PgConnect\obj\Debug\net8.0\PgConnect.pdb
 C:\Users\User\Documents\practice\1\dotnet\PgConnect\obj\Debug\net8.0\PgConnect.genruntimeconfig.cache
 C:\Users\User\Documents\practice\1\dotnet\PgConnect\obj\Debug\net8.0\ref\PgConnect.dll
+C:\Users\User\Documents\practice\1\dotnet\PgConnect\obj\Debug\net8.0\PgConnect.sourcelink.json
